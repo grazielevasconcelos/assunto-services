@@ -1,0 +1,42 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/var/app/lib/app.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/var/app/lib/controller/healthcheck_controller.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          4,
+          null,
+          null,
+          1,
+          6,
+          null,
+          6,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1660189002
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "simplecov_version": "0.21.2"
+  },
+  "coverage": {
+    "/var/app/lib/app.rb": {
+      "lines": [
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null
+      ],
+      "branches": [
+
+      ]
+    },
+    "/var/app/lib/controller/healthcheck_controller.rb": {
+      "lines": [
+        null,
+        null,
+        1,
+        1,
+        4,
+        null,
+        null,
+        1,
+        6,
+        null,
+        6,
+        null,
+        null
+      ],
+      "branches": [
+
+      ]
+    }
+  },
+  "groups": {
+    "Controllers": {
+      "lines": {
+        "covered_percent": 100.0
+      }
+    },
+    "Domain": {
+      "lines": {
+        "covered_percent": 100.0
+      }
+    },
+    "Generator": {
+      "lines": {
+        "covered_percent": 100.0
+      }
+    },
+    "Helpers": {
+      "lines": {
+        "covered_percent": 100.0
+      }
+    },
+    "Services": {
+      "lines": {
+        "covered_percent": 100.0
+      }
+    },
+    "Libraries": {
+      "lines": {
+        "covered_percent": 100.0
+      }
+    }
+  }
+}
