@@ -1,6 +1,6 @@
 # Welcome to Assunto
 
-<!-- [![Maintainability](https://api.codeclimate.com/v1/badges/5738f7b102ef4f4ab49d/maintainability)](https://codeclimate.com/github/grazielevasconcelos/developer-joyofenergy-ruby/maintainability) -->
+[![Maintainability](https://api.codeclimate.com/v1/badges/a066f4d9951edad50d4a/maintainability)](https://codeclimate.com/github/grazielevasconcelos/assunto-services/maintainability)
 
 # Assunto
 
